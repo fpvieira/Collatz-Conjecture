@@ -1,8 +1,5 @@
 #-*- coding: utf-8 -*-
 import sys
-from src.robot import Robot
-from src.compass import Compass
-from src.field import Field
 
 def decompose_number(number):
     counter = 1
